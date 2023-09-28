@@ -12,13 +12,17 @@ Before performing any analysis, the data required preprocessing to ensure accura
 ## Analysis and Visualizations
 **1. Which users should Amazon make more recommendations to?**
 To answer this question, an analysis was conducted to identify users who are more likely to benefit from Amazon's product recommendations. The results were visualized using a bar chart, providing a clear representation of the target audience for enhanced recommendations.
-**1. Which product has a good number of reviews?**
+
+**2. Which product has a good number of reviews?**
 This question aimed to determine which products on Amazon have garnered a substantial number of reviews. The analysis identified such products and visualized the findings through a bar chart, offering insights into the most reviewed items.
-**1. Difference in behavior between frequent and non-frequent customers.**
+
+**3. Difference in behavior between frequent and non-frequent customers.**
 To better understand customer behavior, the dataset was segmented into frequent and non-frequent customers based on predefined criteria. A bar chart was used to illustrate any significant differences in their behavior, helping Amazon tailor its strategies accordingly.
-**1. Do frequent customers leave more detailed reviews?**
+
+**4. Do frequent customers leave more detailed reviews?**
 This analysis delved into whether frequent customers tend to leave more detailed reviews compared to their non-frequent counterparts. A box plot was employed to visualize any disparities in the level of detail in customer reviews.
-**1. Sentiment Analysis of Reviews.**
+
+**5. Sentiment Analysis of Reviews.**
 In addition to quantitative analysis, sentiment analysis was performed on customer reviews to gauge the overall sentiment (positive or negative) associated with specific products. This information can be valuable for identifying products with favorable or unfavorable customer sentiment.
 
 ## Conclusion
